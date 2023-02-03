@@ -1,0 +1,4 @@
+/home/pranathi/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/pranathi/AndroidStudioProjects/OpenCVEx/openCV/.cxx/Debug/2a16605w/x86_64 \
+  opencv_jni_shared

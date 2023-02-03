@@ -1,0 +1,1 @@
+/home/pranathi/AndroidStudioProjects/OpenCVEx/openCV/build/intermediates/cxx/Debug/2a16605w/obj/x86_64
